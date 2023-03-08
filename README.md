@@ -1,1 +1,1 @@
-# animated signup page
+# Animated signup page
